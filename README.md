@@ -1,0 +1,2 @@
+# Apteka
+Oprogramowanie do apteki
